@@ -1,8 +1,10 @@
-# Setting it up
+# SvelteKit + TailwindCSS + DaisyUI web template
+
+Very basick but it should help to start faster.
 
 ## Fork this repo and than clone it
 
-I am using Githu web to fork the repo
+I am using Github web to fork the repo
 
 Clong it from my local PC
 ```bash
@@ -10,7 +12,11 @@ git clone git@github.com:miromir237/sveltekit-twcss-daisyui-starter.git
 ```
 ## Install dependencies
 
-with `npm install` (or `pnpm install` or `yarn`)
+```bash
+cd sveltekit-twcss-daisyui-starter
+```
+
+install dependencies with `npm install` (or `pnpm install` or `yarn`)
 ## Developing
 
 start a development server:
