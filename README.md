@@ -1,22 +1,19 @@
-# create-svelte
+# Setting it up
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Fork this repo and than clone it
 
-## Creating a project
+I am using Githu web to fork the repo
 
-If you're seeing this, you've probably already done this step. Congrats!
-
+Clong it from my local PC
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+git clone git@github.com:miromir237/sveltekit-twcss-daisyui-starter.git
 ```
+## Install dependencies
 
+with `npm install` (or `pnpm install` or `yarn`)
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+start a development server:
 
 ```bash
 npm run dev
